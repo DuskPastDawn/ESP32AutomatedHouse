@@ -1,4 +1,4 @@
-# ESP32AutomatedHouse
+# ESP32 AutomatedHouse
 This is a repository containing documentation and code for a house mockup that simulates an automated house. The house was constructed from foam board and was 2'x2'x1' in size. An ESP32 Microcontroller was used along with a switch, a button, LEDs, sensors, an LCD, an OLED, a microSD module and various other components. The code for the house uses FreeRTOS tasks and tools including mutexes and queues. We also use SPI and I2C to communicate with various modules.<br />
 Two major systems of note are the garage door and the alarm system.<br />
 **Garage Door**<br />
